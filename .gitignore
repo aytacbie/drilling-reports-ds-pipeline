@@ -1,0 +1,12 @@
+# Large PDF folder
+PDF_version_1000/
+*.pdf
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
